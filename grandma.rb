@@ -14,7 +14,7 @@
 
 speak_to_grandma = "hey how is it goin"
  
-if  == "hungry"
+if == "HEY GRANDMA"
   puts "Refilling food bowl."
 elsif dog == "thirsty"
   puts "Refilling water bowl."
