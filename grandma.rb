@@ -12,7 +12,3 @@
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
 
-speak_to_grandma = "hey how is it goin"
- if grandma says == HUH?! SPEAK UP, SONNY!
-    puts HEY HOW IS IT GOING.
- elsif
