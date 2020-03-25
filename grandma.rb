@@ -13,15 +13,4 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 speak_to_grandma = "hey how is it goin"
- 
-if == "HEY GRANDMA"
-  puts "Refilling food bowl."
-elsif dog == "thirsty"
-  puts "Refilling water bowl."
-elsif dog == "playful"
-  puts "Playing tug-of-war."
-elsif dog == "cuddly"
-  puts "Snuggling."
-else
-  puts "Reading newspaper."
-end
+ if grandma says ==
