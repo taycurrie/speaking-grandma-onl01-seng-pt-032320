@@ -12,9 +12,9 @@
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
 
- = "cuddly"
+speak_to_grandma = "hey how is it goin"
  
-if dog == "hungry"
+if  == "hungry"
   puts "Refilling food bowl."
 elsif dog == "thirsty"
   puts "Refilling water bowl."
